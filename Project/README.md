@@ -1,0 +1,1 @@
+This directory contains the Unity 4.2.2 project that was used to build 64-bit binaries for HuniePop.
