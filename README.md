@@ -1,5 +1,7 @@
 # HuniePop x64
 
+[![Discord](https://img.shields.io/discord/418875326064492554.svg?label=&logo=discord&logoColor=FFFFFF&color=CC63A7&labelColor=BA4992 "Join HuniePotHeads")](https://discord.gg/K6fABpV)
+
 #### What?
 This repository contains 64-bit executables that allow you to run HuniePop in 64-bit on macOS and Windows.
 
