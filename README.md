@@ -13,7 +13,7 @@ There are no official 64-bit versions of HuniePop available for macOS and Window
 **The Steam version is not supported**. Steam will just overwrite the executables with the originals upon launching the game or not launch at all. Tryinddg to circumvent this limitation is a gray area and not the aim of this project.
 
 #### How?
-* [Download](archive/master.zip) this repository as a ZIP and extract it anywhere or [clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) it using Git.
+* [Download](https://github.com/HuniePotHeads/HuniePop-x64/archive/master.zip) this repository as a ZIP and extract it anywhere or [clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) it using Git.
 * Open the `HuniePop-x64` or `HuniePop-x64-master` directory you just downloaded/extracted. We will call this the ***x64 package***.
 
 ###### Windows
