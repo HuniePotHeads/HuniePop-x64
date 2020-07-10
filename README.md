@@ -32,6 +32,9 @@ There are no official 64-bit versions of HuniePop available for macOS and Window
 * If you are still getting the *`“HuniePop” needs to be updated`* message, rename the app or move it to another directory, macOS will then re-check it's contents and run it.
 * If you get a message saying *`“HuniePop” can't be opened because it is from an unidentified developer`*, right click on the app and select *Open*.
 
+###### Still having trouble?
+* Create an [issue](https://github.com/HuniePotHeads/HuniePop-x64/issues/new/choose) with as much information as possible.
+
 # More Info
 
 ### "64-bit" releases of HuniePop
