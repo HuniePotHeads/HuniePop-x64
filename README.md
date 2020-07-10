@@ -14,25 +14,27 @@ There are no official 64-bit versions of HuniePop available for macOS and Window
 ### What's the catch?
 **The Steam version is not supported**. Steam will just overwrite the executables with the originals upon launching the game or not launch at all. Trying to circumvent this limitation is a gray area and not the aim of this project.
 
-### How?
+# Installation
+
+### First Steps
 * [Download](https://github.com/HuniePotHeads/HuniePop-x64/archive/master.zip) this repository as a ZIP and extract it anywhere or [clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) it using Git.
 * Open the `HuniePop-x64` or `HuniePop-x64-master` directory you just downloaded/extracted. We will call this the ***x64 package***.
 
-###### Windows
+### Windows
 * Copy the contents of the `Binaries\Windows` directory from the *x64 package* into your HuniePop directory, overwriting/merging `HuniePop.exe` and `HuniePop_Data`.
 * Run the game as usual.
 
-###### macOS
+### macOS
 * Open the `Binaries\macOS` directory from the *x64 package*, right click `HuniePop` (or `HuniePop.app`) and click *Show Package Contents*.
 * Open another Finder window (Command+N) and go to the directory with your original HuniePop game in it and again, right click on `HuniePop` and click *Show Package Contents*.
 * Drag and drop the `Contents` directory from the *x64 package* directory into your HuniePop game directory. If done right, it will ask you to Stop, Replace or Merge, select **Merge**.
 * Run the game.
 
-###### macOS troubleshooting
+### macOS troubleshooting
 * If you are still getting the *`“HuniePop” needs to be updated`* message, rename the app or move it to another directory, macOS will then re-check it's contents and run it.
 * If you get a message saying *`“HuniePop” can't be opened because it is from an unidentified developer`*, right click on the app and select *Open*.
 
-###### Still having trouble?
+### Still having trouble?
 * Create an [issue](https://github.com/HuniePotHeads/HuniePop-x64/issues/new/choose) with as much information as possible.
 
 # More Info
