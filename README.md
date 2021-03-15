@@ -1,3 +1,8 @@
+| :warning: This project is deprecated |
+|:------------------------------|
+| The [Humble Bundle](https://www.humblebundle.com/store/huniepop) store now contains a HuniePop 64-bit build for macOS.<br>Because of that, this project is now considered redundant and will be archived. |
+<br>
+
 # HuniePop x64
 
 [![Discord](https://img.shields.io/discord/418875326064492554.svg?label=&logo=discord&logoColor=FFFFFF&color=CC63A7&labelColor=BA4992 "Join HuniePotHeads")](https://discord.gg/K6fABpV)
